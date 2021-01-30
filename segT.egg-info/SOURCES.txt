@@ -1,7 +1,7 @@
 README.md
 setup.py
 segT/__init__.py
-segT/myfunctions.py
+segT/oper.py
 segT.egg-info/PKG-INFO
 segT.egg-info/SOURCES.txt
 segT.egg-info/dependency_links.txt
