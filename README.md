@@ -1,9 +1,17 @@
-# ABOUT
+# DESCRIPTION
 This is a generic implementation of segment trees for python3.
  * segment trees helps us to do range queries and updates in O(logN) time.
  * it has built in support for operations such as min, max, xor, sum etc.
  * it is currently limited to point updates.
  * python2 is not currently supported.
+ 
+# REQUIREMENTS
+* virtualenv
+* wheel
+* setuptools
+* twine
+* pytest==4.4.1
+* pytest-runner==4.4
  
 # INSTALLATION
 * pip install segT
